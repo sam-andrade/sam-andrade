@@ -1,6 +1,6 @@
 # Olá!👋🏾, Meu nome é Santiago Andrade.
 
-🚀**Sou estudante de Engenharia de Software e estou começando minha jornada na área de tecnologia.**
+🚀**Sou estudante de Engenharia de Software na Fundação Santo André (FSA) e estou começando minha jornada na área de tecnologia.**
 
 💻 Em formação para Desenvolvimento Web  
 🇧🇷 Brasil
