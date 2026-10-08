@@ -5,7 +5,7 @@
 💻 Em formação para Desenvolvimento Web  
 🇧🇷 Brasil
 
-Estou construindo minha jornada na área de tecnologia, com foco em desenvolvimento web e aprendizado constante.
+Construindo minha jornada na área de tecnologia, com foco em desenvolvimento web e aprendizado constante.
 
 Atualmente estou estudando HTML, CSS e JavaScript, enquanto desenvolvo projetos próprios para colocar em prática o que estou aprendendo.
 
